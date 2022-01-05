@@ -11,6 +11,7 @@
 		83D6E2CD2783BE7D005DDEC1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D6E2CC2783BE7D005DDEC1 /* ContentView.swift */; };
 		83D6E2CF2783BE7E005DDEC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83D6E2CE2783BE7E005DDEC1 /* Assets.xcassets */; };
 		83D6E2D22783BE7E005DDEC1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83D6E2D12783BE7E005DDEC1 /* Preview Assets.xcassets */; };
+		83D6E2D92783C674005DDEC1 /* buttonAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D6E2D82783C674005DDEC1 /* buttonAnimations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		83D6E2CC2783BE7D005DDEC1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		83D6E2CE2783BE7E005DDEC1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83D6E2D12783BE7E005DDEC1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		83D6E2D82783C674005DDEC1 /* buttonAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buttonAnimations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				83D6E2CA2783BE7D005DDEC1 /* AnimationsApp.swift */,
 				83D6E2CC2783BE7D005DDEC1 /* ContentView.swift */,
+				83D6E2D82783C674005DDEC1 /* buttonAnimations.swift */,
 				83D6E2CE2783BE7E005DDEC1 /* Assets.xcassets */,
 				83D6E2D02783BE7E005DDEC1 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				83D6E2CD2783BE7D005DDEC1 /* ContentView.swift in Sources */,
+				83D6E2D92783C674005DDEC1 /* buttonAnimations.swift in Sources */,
 				83D6E2CB2783BE7D005DDEC1 /* AnimationsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -269,6 +273,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Animations/Preview Content\"";
+				DEVELOPMENT_TEAM = CRMD47KJ6G;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -297,6 +302,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Animations/Preview Content\"";
+				DEVELOPMENT_TEAM = CRMD47KJ6G;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
